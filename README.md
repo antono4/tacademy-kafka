@@ -1,33 +1,66 @@
-![import poster](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/poster.jpg)
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-## 사전 학습 자료
+<h1 align="center">Project 👋</h1>
 
-카프카 기본 개념
-- [카프카 소개(유튜브 영상)](https://www.youtube.com/watch?v=waw0XXNX-uQ)
-- [컨슈머 소개(유튜브 영상)](https://www.youtube.com/watch?v=rBVCvv9skT4)
-- [프로듀서 소개(유튜브 영상)](https://www.youtube.com/watch?v=aAu0FE3nvbk)
-- [토픽 소개(유튜브 영상)](https://www.youtube.com/watch?v=7QfEpRTRdIQ)
+<p align="center">
+  <strong></strong>
+</p>
 
-## 개발 환경 구성
-
-- [aws](https://aws.amazon.com/ko/) 계정 생성
-- [intellij Community](https://www.jetbrains.com/ko-kr/idea/download) 설치
-
-## 프로젝트 실행하는 방법
-
-1. [AndersonChoi/tacademy-kafka](https://github.com/AndersonChoi/tacademy-kafka) download or git clone in your local
-```
-$ git clone https://github.com/AndersonChoi/tacademy-kafka.git
-```
-
-2. Import project
-![import project1](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/image01.png)
-![import project2](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/image02.png)
-![import project3](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/image03.png)
-
-3. Run application
-![import project4](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/image04.png)
+<p align="center">
+  <a href="https://github.com/antono4/tacademy-kafka"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/tacademy-kafka-blue?logo=github"></a>
+  <a href="https://antono4.github.io/tacademy-kafka/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-188-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 13:08:51 WIB-lightgrey">
+</p>
 
 ---
 
-> **Created by Antono**
+## 📖 Tentang
+
+Repository **`tacademy-kafka`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/tacademy-kafka/`](https://antono4.github.io/tacademy-kafka/).
+
+## 🗂️ Struktur Proyek
+
+```
+tacademy-kafka/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `HTML`
+- `CSS`
+- `JavaScript`
+
+> Total **188 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/tacademy-kafka/](https://antono4.github.io/tacademy-kafka/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-08-13 13:08:51 WIB** oleh GitHub Actions .</sub>
