@@ -1,1 +1,26 @@
-Last updated: 2026-09-22 08:32:48 WIB
+# tacademy-kafka
+
+
+
+## 📋 Overview
+
+This repository contains **193 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-22 08:33:52 WIB*
